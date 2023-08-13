@@ -1,5 +1,4 @@
 # paper_code
-Code replication
 code和result都在master分支中
 可运行的代码在code中
 运行结果和模型训练曲线在result中
